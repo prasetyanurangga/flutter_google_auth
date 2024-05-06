@@ -1,4 +1,4 @@
-# teacher_track
+# Flutter Google Auth
 
 A new Flutter project.
 
